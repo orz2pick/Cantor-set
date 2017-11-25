@@ -23,5 +23,5 @@ YES
 YES
 
 Sample codes:
-Python:		http://paste.ubuntu.com/26039947/
-CPP:		http://paste.ubuntu.com/26040019/
+Python:		
+CPP：
